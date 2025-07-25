@@ -1,6 +1,15 @@
 # 💼 SmartPayPredict
 
 ### A Machine Learning System for Employee Salary Forecasting
+# 💼 SmartPayPredict
+
+### A Machine Learning System for Employee Salary Forecasting
+
+[![Deployed on Streamlit](https://img.shields.io/badge/Deployed%20with-Streamlit-ff4b4b?logo=streamlit)](https://smartpaypredict0.streamlit.app/)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model-blue?logo=scikit-learn)](https://scikit-learn.org/)
+[![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)](https://smartpaypredict0.streamlit.app/)
+[![GitHub stars](https://img.shields.io/github/stars/Pratikkamble123/SmartPayPredict?style=social)](https://github.com/Pratikkamble123/SmartPayPredict/stargazers)
 
 SmartPayPredict is an intelligent salary prediction web application built using Python, Streamlit, and Machine Learning. It predicts an employee's salary based on job role, education, experience, city tier, skills, certifications, and company size.
 
