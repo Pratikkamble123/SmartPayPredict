@@ -1,9 +1,6 @@
 # 💼 SmartPayPredict
 
 ### A Machine Learning System for Employee Salary Forecasting
-# 💼 SmartPayPredict
-
-### A Machine Learning System for Employee Salary Forecasting
 
 [![Deployed on Streamlit](https://img.shields.io/badge/Deployed%20with-Streamlit-ff4b4b?logo=streamlit)](https://smartpaypredict0.streamlit.app/)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
