@@ -2,7 +2,8 @@
 import streamlit as st
 import pandas as pd
 import joblib
-
+import os
+st.write("Files in working directory:", os.listdir())
 st.set_page_config(page_title="SmartPayPredict", layout="centered")
 
 st.title("💼 SmartPayPredict: Salary Forecasting System")
