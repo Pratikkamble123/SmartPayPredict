@@ -102,6 +102,5 @@ Feel free to open issues or contribute enhancements via pull requests.
 ---
 
 ⭐️ Don't forget to star this repository if you found it helpful!
-
-```
+`
 
