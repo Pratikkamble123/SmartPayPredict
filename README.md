@@ -3,10 +3,7 @@
 
 🔗 [`https://smartpaypredict0.streamlit.app/`](https://smartpaypredict0.streamlit.app/)
 
----
 
-
-````markdown
 # 💼 SmartPayPredict
 
 ### A Machine Learning System for Employee Salary Forecasting
@@ -15,7 +12,7 @@ SmartPayPredict is an intelligent salary prediction web application built using 
 
 🔗 **Live Demo:** [https://smartpaypredict0.streamlit.app/](https://smartpaypredict0.streamlit.app/)
 
----
+
 
 ## 📌 Features
 
@@ -32,7 +29,6 @@ SmartPayPredict is an intelligent salary prediction web application built using 
 - Pre-trained ML model with high accuracy
 - Suitable for HR analytics, employee planning, and compensation benchmarking
 
----
 
 ## 🧠 Machine Learning Model
 
@@ -45,7 +41,7 @@ SmartPayPredict is an intelligent salary prediction web application built using 
 
 ## 📂 Project Structure
 
-```bash
+
 SmartPayPredict/
 │
 ├── app.py                  # Streamlit frontend
@@ -53,9 +49,6 @@ SmartPayPredict/
 ├── salary_predictor.pkl    # Pre-trained ML model
 ├── employee_data.csv       # Sample training dataset
 ├── requirements.txt        # Python dependencies
-````
-
----
 
 ## 🚀 How to Run Locally
 
