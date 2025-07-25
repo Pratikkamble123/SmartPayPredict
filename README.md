@@ -40,7 +40,7 @@ SmartPayPredict is an intelligent salary prediction web application built using 
 ---
 
 ## 📂 Project Structure
-
+```bash
 
 SmartPayPredict/
 │
@@ -49,7 +49,7 @@ SmartPayPredict/
 ├── salary_predictor.pkl    # Pre-trained ML model
 ├── employee_data.csv       # Sample training dataset
 ├── requirements.txt        # Python dependencies
-
+```
 ## 🚀 How to Run Locally
 
 1. Clone the repo
@@ -111,21 +111,3 @@ Feel free to open issues or contribute enhancements via pull requests.
 
 ```
 
----
-
-### ✅ What to Do Next:
-1. Go to your GitHub repo
-2. Click **“Add file” → “Create new file”**
-3. Name it `README.md`
-4. Paste the content above
-5. Commit to `main` branch
-
----
-
-Let me know if you'd like to:
-- Add screenshots to the README
-- Add badges (like Deployed with Streamlit, Made with Python)
-- Add login/auth or more ML models to the app
-
-Great job getting this deployed! 🚀
-```
