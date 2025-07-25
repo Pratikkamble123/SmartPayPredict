@@ -1,0 +1,4 @@
+Name,Experience,Education,Role,City_Tier,Skills,Certifications,Company_Size,Salary
+Alice,3,Bachelors,Data Scientist,1,"Python,SQL",Yes,Large,80000
+Bob,5,Masters,Software Engineer,2,"Java,Spring",No,Medium,95000
+Charlie,2,Bachelors,Web Developer,3,"HTML,CSS,JavaScript",Yes,Small,60000
