@@ -1,9 +1,3 @@
-# SmartPayPredict
-
-
-🔗 [`https://smartpaypredict0.streamlit.app/`](https://smartpaypredict0.streamlit.app/)
-
-
 # 💼 SmartPayPredict
 
 ### A Machine Learning System for Employee Salary Forecasting
